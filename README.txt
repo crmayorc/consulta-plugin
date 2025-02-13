@@ -1,6 +1,8 @@
 # Consulta Inventario Plugin
 
-Este plugin para WordPress crea y gestiona una tabla de inventario de productos, permitiendo consultar datos de manera visual y formateada. La tabla se crea automáticamente al activar el plugin, y se muestran campos específicos con formatos mejorados para facilitar la lectura y el análisis de los datos.
+Este plugin para WordPress crea y gestiona una tabla de inventario de productos, permitiendo consultar datos de manera visual y formateada. 
+La tabla se crea automáticamente al activar el plugin, y se muestran campos específicos con formatos mejorados para facilitar la lectura y 
+el análisis de los datos.
 
 ## Características y Mejoras
 
@@ -41,7 +43,8 @@ CREATE TABLE wp_productos_inventario (
 );
 
 Datos de Ejemplo
-Para insertar datos de ejemplo, puedes ejecutar las siguientes sentencias SQL a través de phpMyAdmin o cualquier otra herramienta de administración MySQL:
+Para insertar datos de ejemplo, puedes ejecutar las siguientes sentencias SQL a través de phpMyAdmin o 
+cualquier otra herramienta de administración MySQL:
 
 sql
 Copiar
@@ -62,7 +65,8 @@ INSERT INTO wp_productos_inventario (codigo, talla, cantidad, precio, valor, fec
 - Una vez activado, encontrarás un nuevo menú llamado "Consulta Inventario" en el Dashboard de WordPress.
 
 **Consultar Datos:**
-- Haz clic en el botón "Consultar Datos" dentro del menú para visualizar los registros del inventario, con el formato de precios, valores y fechas mejorados, y ordenados por fecha descendente.
+- Haz clic en el botón "Consultar Datos" dentro del menú para visualizar los registros del inventario, 
+con el formato de precios, valores y fechas mejorados, y ordenados por fecha descendente.
 
 
 

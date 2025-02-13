@@ -3,7 +3,7 @@
 Plugin Name: Consulta Inventario Plugin
 Description: Plugin para consultar la tabla de inventario y mostrar los datos con formato de moneda.
 Version: 1.0
-Author: Cristian Mayor
+Author: Cristian Mayor 
 */
 
 // Evitar acceso directo al archivo
